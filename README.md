@@ -1,3 +1,5 @@
+<center><img src="asset/Image20260628112103.jpg"></img></center>
+
 coba-coba ngasal
 # Dashboard Power BI
 
